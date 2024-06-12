@@ -1,6 +1,4 @@
 # Keyboard
-This is my project
+In this repository, I have designed a very beautiful and attractive-looking keyboard using html and CSS.
 <br>
 Author - Hamid Raza
-<br>
-Witten on 29 May,2024
